@@ -70,8 +70,6 @@ Our people are our greatest strength.
 - Brochure Designing
 - Custom Web Solutions
 
-:contentReference[oaicite:1]{index=1}
-
 ---
 
 ## 📞 Contact Us
